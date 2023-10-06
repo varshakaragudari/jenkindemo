@@ -23,6 +23,6 @@ public class SpringJenkinsApplicationTests {
 	@Test
 	public void contextLoads2() {
 		logger.info("Test case 2 executing...");
-		assertEquals(true, true);
+		assertEquals(true, true)
 	}
 }
